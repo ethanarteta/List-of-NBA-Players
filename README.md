@@ -13,7 +13,7 @@ page = 1
 all_player_data = []  
 
 headers = {
-    "X-RapidAPI-Key": "508079d9dcmsha05f384e050e587p19d156jsnbd724523796e",
+    "X-RapidAPI-Key": "****************************************",
     "X-RapidAPI-Host": "free-nba.p.rapidapi.com"
 }
 
